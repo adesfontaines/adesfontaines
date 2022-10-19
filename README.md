@@ -6,7 +6,7 @@
 </div>
 -->
 
-🔭 Looking for open-source projects to work on.
+🔭 Looking for open-source projects to contribute on.
 
 ---
 
