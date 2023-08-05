@@ -25,6 +25,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### ⭐ Certifications :
+
+<a href="https://www.credly.com/badges/95e08ac5-1ef1-4eb6-aa21-8f5fd87c07f1/public_url">
+<img width="64px" height="64px" alt="(AZ-305) Microsoft Certified: Azure Solutions Architect Expert" title="(AZ-305) Microsoft Certified: Azure Solutions Architect Expert" src="https://images.ctfassets.net/94b09zy95xdu/4w8bCs3Ze8lURITQnwrLhw/f332029ced12112ac217ae3152423412/microsoft-certified-azure-solutions-architect-expert.1.webp">
+</a>
+
+<a href="https://www.credly.com/badges/3206fe47-f585-42da-8779-d005b54f2374/public_url">
+<img width="64px" height="64px" alt="(AZ-104) Microsoft Certified: Azure Administrator Associate" title="(AZ-104) Microsoft Certified: Azure Administrator Associate" src="https://images.ctfassets.net/94b09zy95xdu/zE1P6YcIjxgYO6mgM0kLK/cb91c156e9841f32816d71496482d063/microsoft-certified-azure-administrator-associate.2.webp">
+</a>
+
+<a href="https://www.credly.com/badges/63639170-3536-43c2-9611-2ec07be6fbfe/public_url">
+<img width="64px" height="64px" src="https://images.ctfassets.net/94b09zy95xdu/28zSjNdCgmyXUu8I2YXbmo/5f22d78f9514ba53104bd380d3f3df02/microsoft-certified-azure-developer-associate.webp">
+</a>
+
 <!--
 **adesfontaines/adesfontaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
