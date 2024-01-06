@@ -29,6 +29,10 @@
 ### ⭐ Certifications :
 
 <a href="https://www.credly.com/badges/95e08ac5-1ef1-4eb6-aa21-8f5fd87c07f1/public_url">
+<img width="64px" height="64px" alt="(AZ-400) Microsoft Certified: Azure Solutions Architect Expert" title="(AZ-400) Microsoft Certified: Azure Solutions Architect Expert" src="https://images.ctfassets.net/94b09zy95xdu/8Emmi7jUHAptggDu1ccFY/4556ae7305fa3c61eda17d660cac3791/CERT-Expert-DevOps-Engineer-600x600__1_.webp">
+</a>
+
+<a href="https://www.credly.com/badges/95e08ac5-1ef1-4eb6-aa21-8f5fd87c07f1/public_url">
 <img width="64px" height="64px" alt="(AZ-305) Microsoft Certified: Azure Solutions Architect Expert" title="(AZ-305) Microsoft Certified: Azure Solutions Architect Expert" src="https://images.ctfassets.net/94b09zy95xdu/4w8bCs3Ze8lURITQnwrLhw/f332029ced12112ac217ae3152423412/microsoft-certified-azure-solutions-architect-expert.1.webp">
 </a>
 
